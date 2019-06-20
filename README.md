@@ -1,6 +1,6 @@
 # Problem Statement:
 
-We will build the random forest model for predicting house prices from boston data set.
+We will build a random forest model for predicting house prices from boston data set.
 
 ### Code to get data:
 
